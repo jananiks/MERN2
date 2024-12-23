@@ -14,6 +14,9 @@ function Home(){
     navigate("/dietplan")
 
   }
+  const track=()=>{
+    navigate("/track")
+  }
   return(
     <div >
     
